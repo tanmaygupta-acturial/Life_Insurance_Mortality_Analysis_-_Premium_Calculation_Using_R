@@ -177,4 +177,12 @@ If you found this project interesting or useful:
 
 ## 👨‍💻 Author
 
-Developed as a practical actuarial analytics project focused on insurance pricing, mortality modeling, and financial risk analysis using R Programming.
+I am an aspiring actuary currently pursuing the IFOA fellowship qualification. I cleared CM1
+(Actuarial Mathematics) and CS1 (Actuarial Statistics) in 2025, alongside completing a
+B.Com (Hons.) with a 9.0 CGPA. CM2 result is currently awaited and I am preparing for CS2.
+I am actively seeking entry-level roles in actuarial analysis, risk analytics, or insurance —
+open to Delhi NCR, Gurugram, Bangalore, Hyderabad, and Mumbai.
+
+tanmay3415gupta@gmail.com
++91 9899051054
+
